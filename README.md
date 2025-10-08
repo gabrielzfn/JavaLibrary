@@ -21,3 +21,9 @@ Projeto baseado no desafio **“Sistema de Livraria”** da [Rocketseat](https:/
 - `models/` → Entidades do sistema (Author, Book, Loan)  
 - `services/` → Regras de negócio (classe `Library`)  
 - `app/` → Ponto de entrada do programa (`Main.java`) 
+
+<br>
+
+## 👨‍💻 Autor
+
+Gabriel Zefino Teixeira • 💼 [Linkedin](https://www.linkedin.com/in/gabrielzfn/) • 🖥️ [GitHub](https://github.com/gabrielzfn)
