@@ -1,7 +1,6 @@
 # JavaLibrary
 
 Um sistema simples de console desenvolvido em **Java**, com o objetivo de gerenciar livros e empréstimos em uma livraria fictícia.  
-Projeto baseado no desafio **“Sistema de Livraria”** da [Rocketseat](https://app.rocketseat.com.br/projects/desafio-sistema-de-livraria).
 
 <br>
 
